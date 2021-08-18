@@ -1,12 +1,3 @@
-"""
-Name: Brian Chen
-Time To Completion: 10 hours
-Comments: Used my Project 4 solution which used the Project 3 instructor solution
-Sources:
-https://piazza.com/class/jqh746nkrro51r?cid=701
-https://python-reference.readthedocs.io/en/latest/docs/functions/sorted.html
-https://stackoverflow.com/questions/34981262/porting-sort-with-lambda-function-to-python-3
-"""
 import string
 import copy
 from operator import itemgetter
